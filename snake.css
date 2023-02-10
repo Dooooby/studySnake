@@ -1,0 +1,32 @@
+td{
+    height: 20px;
+    width: 20px;
+    border-radius: 3px;
+}
+
+body{
+    background-image: url(/backImg.jpg);
+    background-size: cover;
+    width: 100vh;
+    margin: 0 auto;
+}
+
+
+#score{
+    height: 40px;
+    width: 463px;
+    margin: 0 auto;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #EEEEEE;
+}
+#plus{
+    height: 20px;
+    width: 463px;
+    margin: 0 auto;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #EEEEEE;
+}
