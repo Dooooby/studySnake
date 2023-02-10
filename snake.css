@@ -5,7 +5,7 @@ td{
 }
 
 body{
-    background-image: url(/backImg.jpg);
+    background-image: url(backImg.jpg);
     background-size: cover;
     width: 100vh;
     margin: 0 auto;
